@@ -19,29 +19,17 @@ using namespace std;
 class NotasParciales
 {
     public:
-        //constructor para los private
-        NotasParciales(float matriz_facultad_1, float matriz_facultad_2, float matriz_facultad_3);
-        //getters y setter para las variables privadas
-        float getmatriz_facultad_1();
-        void setmatriz_facultad_3(float matriz_facultad_1);
-
-        float getmatriz_facultad_2();
-        void setmatriz_facultad_2(float matriz_facultad_2);
-
-        float getmatriz_facultad_3();
-        void setmatriz_facultad_3(float matriz_facultad_3);
+        NotasParciales();
         void llamadaCiclo();
         //metodo de asginacion de notas al azar
         int busquedaAleatoreos(int min, int max);
         //matrices de facultades
-        void llenarMatriz(float matriz_facultad[NUMERO_ALUMNOS][NUMERO_NOTAS+1])
+        void llenarMatriz(float matriz_facultad[NUMERO_ALUMNOS][NUMERO_NOTAS+1]);
         void imprimirMatrizLinea();
         float imprimirMatriz(float matriz[NUMERO_ALUMNOS][NUMERO_NOTAS+1], char alumnos[NUMERO_ALUMNOS][MAXIMA_LONGITUD_CADENA],string nombreFacultad);
     private:
-        //Declaracion de matrices de univesidad
-        float matriz_facultad_1[NUMERO_ALUMNOS][NUMERO_NOTAS + 1];
-        float matriz_facultad_2[NUMERO_ALUMNOS][NUMERO_NOTAS + 1];
-        float matriz_facultad_3[NUMERO_ALUMNOS][NUMERO_NOTAS + 1];
+
+
 
 };
 
