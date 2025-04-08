@@ -9,6 +9,11 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    cout << "Notas de la Universidad"<<endl;
+    srand(getpid()); //Inicar el rand
+    NotasParciales notas;
+    notas.llamadaCiclo();
     return 0;
+
+
 }
