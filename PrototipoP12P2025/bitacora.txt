@@ -1,0 +1,47 @@
+commit 06cfa027013caa3aee9f8b8845b200dfd1b8e336
+Author: IsaC-8bBit (laptop) <isaiascedillo1313@gmail.com>
+Date:   Tue Apr 8 11:11:03 2025 -0600
+
+    Ultimo commit relevante
+
+commit 2eae3a4af7df9ede843e1efd7afa5eef9914f4f2
+Author: IsaC-8bBit (laptop) <isaiascedillo1313@gmail.com>
+Date:   Tue Apr 8 11:09:55 2025 -0600
+
+    commit
+
+commit 471990d8477260a3a4fd5524a46520cc646f2ced
+Author: IsaC-8bBit (laptop) <isaiascedillo1313@gmail.com>
+Date:   Tue Apr 8 11:08:55 2025 -0600
+
+    quinto commit
+
+commit c201330cd19e12207e626993c812cc5d3cc24982
+Author: IsaC-8bBit (laptop) <isaiascedillo1313@gmail.com>
+Date:   Tue Apr 8 11:08:06 2025 -0600
+
+    cuarto commit
+
+commit 0ce189340110e901cc96f13f7462d43f8f831266
+Author: IsaC-8bBit (laptop) <isaiascedillo1313@gmail.com>
+Date:   Tue Apr 8 11:06:41 2025 -0600
+
+    tercer commit
+
+commit f8dde62c58e145c46c10698a756f351bea1635b9
+Author: IsaC-8bBit (laptop) <isaiascedillo1313@gmail.com>
+Date:   Tue Apr 8 10:52:17 2025 -0600
+
+    segundo commit
+
+commit 63fdb846d1e4d947c18e597e6bcbe23a3424499d
+Author: IsaC-8bBit (laptop) <isaiascedillo1313@gmail.com>
+Date:   Tue Apr 8 10:29:07 2025 -0600
+
+    commit 1
+
+commit 6357195b242af353b72fa50ba8355ddf1d21a48d
+Author: Isaías Cedillo <123830438+IsaiasC-8bit@users.noreply.github.com>
+Date:   Tue Apr 8 10:11:02 2025 -0600
+
+    Initial commit
