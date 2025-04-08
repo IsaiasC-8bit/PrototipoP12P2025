@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1740933562 source:c:\users\isaia\onedrive\escritorio\repositorios github\progra_1_umg\prototipop12p2025\prototipop12p2025\main.cpp
+	<iostream>
+
+1744128285 source:c:\users\isaia\onedrive\escritorio\repositorios github\progra_1_umg\prototipop12p2025\prototipop12p2025\src\notasparciales.cpp
+	"NotasParciales.h"
+	<iostream>
+	<stdlib.h>
+
+1744128389 c:\users\isaia\onedrive\escritorio\repositorios github\progra_1_umg\prototipop12p2025\prototipop12p2025\include\notasparciales.h
+	<iostream>
+	<stdlib.h>
+
